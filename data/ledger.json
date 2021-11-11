@@ -1,1 +1,2 @@
-[]
+{"action":{"identity":{"address":"N\u0000sourcecred\u0000core\u0000IDENTITY\u000032OrWzr677eI2SqEMOYvlQ\u0000","aliases":[],"id":"32OrWzr677eI2SqEMOYvlQ","name":"KeatonKirk","subtype":"USER"},"type":"CREATE_IDENTITY"},"ledgerTimestamp":1636641818415,"uuid":"CdBkDdfPnidx1OZ1Re16Cg","version":"1"}
+{"action":{"alias":{"address":"N\u0000sourcecred\u0000github\u0000USERLIKE\u0000USER\u0000KeatonKirk\u0000","description":"github/[@KeatonKirk](https://github.com/KeatonKirk)"},"identityId":"32OrWzr677eI2SqEMOYvlQ","type":"ADD_ALIAS"},"ledgerTimestamp":1636641818416,"uuid":"TgcKyha5pqYohN8A5ugHpg","version":"1"}
